@@ -17,7 +17,8 @@ body {
 	width: 100%;
 }
 
-.header .more-inf {
+.header 
+	.more-inf {
 	font-family: fantasy, cursive;
 }
 
